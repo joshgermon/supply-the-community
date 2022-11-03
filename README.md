@@ -1,3 +1,5 @@
+## ⚠️ 2020 Archived Project made in a sprint
+
 # Supply The Community
 
 This archived project was a proof of concept for a community app to help others find household necessities through crowdsourced information.
